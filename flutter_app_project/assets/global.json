@@ -1,0 +1,98 @@
+{
+    "name": "Global Competency instrument",
+    "type": "bar",
+    "greeting": "This is a sample greeting of the survey",
+    "categories": [
+        {
+            "name": "Overall",
+            "factors": [
+                {
+                    "name": "Cultural understanding",
+                    "questions": [
+                        "I am familiar with cross-national differences in international tax/trade laws.",
+                        "I am familiar with cross-national/cultural differences in professional ethics.",
+                        "I am familiar with cross-national/cultural differences in professional practice/ management practice.",
+                        "I understand how culture affects perceptions of the engineering profession throughout the world.",
+                        "I understand cultural differences relating to product design, manufacture, and use."
+                    ]
+                },
+                {
+                    "name": "Intercultural Communication ",
+                    "questions": [
+                        "I am conscious of the cultural knowledge I use when interacting with people with different cultural backgrounds.",
+                        "I adjust my cultural knowledge as I interact with people from a culture that is unfamiliar to me.",
+                        "I know the rules for expressing nonverbal behaviors in other cultures.",
+                        "I am confident that I can socialize with locals in a culture that is unfamiliar to me.",
+                        "I enjoy interacting with people from different cultures.",
+                        "I change my nonverbal behavior when a crosscultural situation requires it.",
+                        "I alter my facial expressions when a cross-cultural interaction requires it.",
+                        "I change my verbal behavior (e.g., accent, tone) when a cross-cultural interaction requires it.",
+                        "I am able to answer questions effectively",
+                        "I am a good listener",
+                        "I actively request them for feedback",
+                        "I don’t quite know how to initiate a conversation (rev scored)",
+                        "I have problems with expressing my ideas clearly (rev scored)",
+                        "I often miss parts of what is going on (rev scored)",
+                        "I find it is easy to identify with them",
+                        "I always show respect for their opinions",
+                        "I find it easy to recognize early signs of frustration with them",
+                        "I always try to understand their actions, thoughts, and feelings",
+                        "I often feel a sense of distance (rev scored)",
+                        "I find it difficult to approach them (rev scored)"
+                    ]
+                },
+                {
+                    "name": "Professional Practice (Behavior) -Prior Experience",
+                    "questions": [
+                        "I am capable of working as a global technical professional.",
+                        "I can work effectively in the global engineering profession.",
+                        "I can practice engineering in an international setting.",
+                        "I can collaborate and work toward common goals as a member of a multicultural team. ",
+                        "I can function effectively as a member of a multicultural technical team."
+                    ]
+                },
+                {
+                    "name": "Attitude",
+                    "questions": [
+                        "A year long overseas assignment would be a fantastic opportunity for me and/or my family.",
+                        "Traveling the world is a priority in my life. ",
+                        "I hope the company I work for, (or will work for), will send me on an overseas assignment.",
+                        "Other cultures fascinate me. ",
+                        "I would host a foreign exchange student for one year. ",
+                        "Foreign language skills should be taught in (as early as) elementary school. ",
+                        "If you took a vacation to Europe, which would you prefer (anchors increase in cultural immersion)?",
+                        "I can deal with unusual situations.",
+                        "I can change my behaviour to meet the needs of new situations. ",
+                        "I can adapt to different situations even when under stress or pressure.",
+                        "I can adapt easily to a new culture. ",
+                        "When encountering difficult situations with other people, I can think of a way to resolve the situation.",
+                        "I am capable of overcoming my difficulties in interacting with people from other cultures.",
+                        "I try to look at everybody's side of a disagreement before I make a decision.",
+                        "I believe that there are two sides to every question and try to look at them both.",
+                        "I sometimes try to understand my friends better by imagining how things look from their perspective.",
+                        "Before criticizing somebody, I try to imagine how I would feel if I were in their place.",
+                        "When I’m upset at someone, I try to take the perspective of that person for a while."
+                    ]
+                },
+                {
+                    "name": "Sustainable matter",
+                    "questions": [
+                        "I am knowledgeable about how carbon-dioxide emissions impact global climate change.",
+                        "I have an understanding of why some countries are more affected by global climate change than others.",
+                        "I understand the link between textile prices and working conditions in the countries of production.",
+                        "I can discuss the various reasons why people become refugees.",
+                        "I can explain how economic crises in individual countries impact the global economy.",
+                        "I can discuss the environmental consequences of economic development.",
+                        "I am concerned about the impacts of climate change and global warming.",
+                        "Global health issues, such as epidemics, are a significant global concern.",
+                        "I believe that global migration is an important and complex issue.",
+                        "Resolving international conflicts is crucial for global stability.",
+                        "Addressing hunger and malnutrition worldwide should be a top priority.",
+                        "Understanding and addressing the root causes of poverty is essential.",
+                        "Achieving equality between men and women globally is a critical goal."
+                    ]
+                }
+            ]
+        }
+    ]
+}

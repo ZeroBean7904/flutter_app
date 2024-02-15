@@ -1,9 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_app_project/screens/submit.dart';
 
-class Survey2 extends StatelessWidget {
+class Survey2 extends StatefulWidget {
   const Survey2({super.key});
 
+  @override
+  State<Survey2> createState() => _Survey2State();
+}
+
+class _Survey2State extends State<Survey2> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(

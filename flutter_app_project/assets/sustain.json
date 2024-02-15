@@ -1,0 +1,137 @@
+{
+    "name": "Sustainable Development",
+    "type": "web",
+    "greeting": "Participate in our survey on Sustainable Development Leadership, where your insights will contribute to a better understanding of sustainable practices. Upon completion, you'll have the opportunity to view the survey results, gaining valuable insights into collective perspectives on sustainable development leadership.",
+    "categories": [
+        {
+            "name": "Cognitive and Analytical Proficiency",
+            "factors": [
+                {
+                    "name": "Systems thinking",
+                    "questions": [
+                        "I feel confident in analyzing complex systems across various scales and domains of inquiry",
+                        "I am confident in comprehending, empirically verifying, and articulating the key components, structure, and dynamics of a system.",
+                        "I consider systemic features, such as feedback, inertia, stocks and flows, and cascading effects, when analyzing a complex system.",
+                        "I am familiar with complex systems phenomena, including unintended consequences, path dependency, systemic inertia, and intentionality.",
+                        "I understand connectivity and can identify cause-effect relationships within complex systems."
+                    ]
+                },
+                {
+                    "name": "Anticipatory Thinking",
+                    "questions": [
+                        "I am proficient in effectively dealing with risks and adapting to changes in dynamic environments.",
+                        "I frequently apply the precautionary principle when making decisions in my professional or academic endeavors.",
+                        "I am skilled in predicting reactions to future events or changes, considering various factors and stakeholders.",
+                        "I feel confident in envisioning, analyzing, and evaluating possible futures, including scenarios with multi-generational timescales.",
+                        "I proactively anticipate and address emerging risks, consistently applying foresight to envision and analyze a wide range of possible futures, including those with multi-generational timescales."
+                    ]
+                },
+                {
+                    "name": "Critical thinking and analysis",
+                    "questions": [
+                        "I have the ability to challenge norms, practices, and opinions, promoting innovation and critical thinking.",
+                        "I actively engage in reflection on my own values, perceptions, and actions to enhance self-awareness and personal growth.",
+                        "I demonstrate an understanding of external perspectives, valuing diverse viewpoints to inform decision-making.",
+                        "I actively promote inclusivity and diversity by considering and incorporating external perspectives in my interactions and decision-making.",
+                        "I consistently challenge norms, practices, and opinions, fostering innovation and critical thinking in both personal and professional contexts."
+                    ]
+                },
+                {
+                    "name": "Strategic action",
+                    "questions": [
+                        "I have the ability to design and implement interventions, transitions, and transformations for sustainability.",
+                        "I actively and responsibly engage in sustainability activities.",
+                        "I am proficient in the development and application of ideas and strategies for sustainability.",
+                        "I am skilled in planning and executing projects for sustainable outcomes.",
+                        "I can effectively reflect on and deal with possible risks associated with sustainability initiatives."
+                    ]
+                },
+                {
+                    "name": "Assessment and evaluation",
+                    "questions": [
+                        "I possess the capability to develop comprehensive assessment and evaluation standards and guidelines.",
+                        "I consistently conduct independent evaluations, taking into account conflicts of interest, goals, uncertain knowledge, and contradictions.",
+                        "I demonstrate expertise in formulating rigorous assessment criteria for effective evaluations.",
+                        "I systematically analyze and assess various factors, ensuring a thorough and unbiased evaluation process.",
+                        "I contribute to the improvement of assessment methodologies, staying updated on best practices in evaluation standards."
+                    ]
+                },
+                {
+                    "name": "Tolerance for ambiguity and uncertainty",
+                    "questions": [
+                        "I am adept at coping with conflicts, managing interpersonal disagreements effectively.",
+                        "I can effectively cope with competing goals and interests, finding solutions that balance various priorities.",
+                        "I am skilled at coping with contradictions, navigating complex situations with conflicting elements.",
+                        "I handle setbacks effectively, learning from challenges and adapting my approach accordingly.",
+                        "I embrace ambiguity and uncertainty with ease, demonstrating a high level of adaptability in navigating dynamic and unpredictable situations."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Interpersonal and Ethical Competencies",
+            "factors": [
+                {
+                    "name": "Empathy and change of perspective",
+                    "questions": [
+                        "I have the ability to identify both my own and external perspectives in various situations.",
+                        "I demonstrate understanding and sympathy for the needs, perspectives, and actions of others.",
+                        "I exhibit compassion, empathy, and solidarity with others, transcending differences and fostering a sense of unity.",
+                        "I am accepting and embracing of a diversity of opinions, experiences, or perspectives.",
+                        "I possess a transcultural understanding, appreciating and navigating cultural differences with ease."
+                    ]
+                },
+                {
+                    "name": "Communication and use of media",
+                    "questions": [
+                        "I have the ability to communicate effectively in intercultural contexts, considering diverse cultural nuances.",
+                        "I am proficient in using appropriate information and communication technologies for effective communication.",
+                        "I critically consider and evaluate media, assessing information sources and content with discernment.",
+                        "I am adaptable in using various communication tools, adjusting to different technological platforms as needed.",
+                        "I demonstrate versatility in leveraging communication tools, seamlessly adapting to diverse technological platforms for effective engagement."
+                    ]
+                },
+                {
+                    "name": "Personal involvement",
+                    "questions": [
+                        "I actively participate in creating sustainability initiatives.",
+                        "I have the willingness and ability to take action towards sustainable goals.",
+                        "I have a willingness to learn and innovate in the context of sustainability.",
+                        "I am self-motivated to contribute to sustainability efforts.",
+                        "I take the initiative in my own learning, especially in areas related to sustainability."
+                    ]
+                },
+                {
+                    "name": "Interdisciplinary Work",
+                    "questions": [
+                        "I am confident in my ability to evaluate and navigate complex problems within interdisciplinary contexts.",
+                        "I am proficient in contextualizing knowledge from various disciplines to address multifaceted challenges.",
+                        "I am skilled in working on complex problems that require an interdisciplinary approach.",
+                        "I consistently collaborate with experts from various disciplines, leveraging their knowledge to address intricate challenges through an interdisciplinary approach.",
+                        "I actively seek opportunities to contribute my expertise across different fields, demonstrating versatility and effectiveness in interdisciplinary problem-solving."
+                    ]
+                },
+                {
+                    "name": "Justice, responsibility, and ethics",
+                    "questions": [
+                        "I am adept at describing, negotiating, and reconciling principles, values, aims, and goals for sustainability.",
+                        "I take responsibility for my actions, considering their impact on sustainability and ethical considerations.",
+                        "I consistently uphold ethics and sustainability in my personal behavior, aligning with principles of responsible living.",
+                        "I consistently uphold ethics and sustainability in my professional behavior, aligning with principles of responsible conduct.",
+                        "I actively contribute to the development and implementation of principles, values, and goals for sustainability, ensuring ethical considerations in all aspects of my endeavors."
+                    ]
+                },
+                {
+                    "name": "Interpersonal relations and collaboration",
+                    "questions": [
+                        "I actively engage in participatory and collaborative approaches when solving problems or conducting research.",
+                        "I possess skills and understandings in communication, deliberation, negotiation, empathizing, leadership, and collaboration.",
+                        "I am adept at dealing with conflicts, finding constructive resolutions in collaborative settings.",
+                        "I actively seek and learn from other perspectives to enhance my understanding and decision-making.",
+                        "I actively participate in community processes, contributing to collective decision-making and well-being."
+                    ]
+                }
+            ]
+        }
+    ]
+}
