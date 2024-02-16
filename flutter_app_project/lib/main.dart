@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       
       routes: {
         '/':(context) => AppMain(),
-        '/surveychoice':(context)=>SurveyChoice(),
+        '/surveychoice':(context) => SurveyChoice(),
       },
       initialRoute: '/',
     );

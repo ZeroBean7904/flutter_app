@@ -1,18 +1,18 @@
 import 'package:json_annotation/json_annotation.dart';
 
-part 'survey1data.g.dart';
+part 'survey2data.g.dart';
 
 @JsonSerializable()
-class S1 {
+class S2 {
   final String name;
   final String type;
   final String greeting;
   final List<Category> categories;
 
-  S1({required this.name, required this.type,required this.greeting,required this.categories});
+  S2({required this.name, required this.type,required this.greeting,required this.categories});
 
-  factory S1.fromJson(Map<String,dynamic> json) => _$S1FromJson(json);
-  Map<String,dynamic> toJson() => _$S1ToJson(this);
+  factory S2.fromJson(Map<String,dynamic> json) => _$S2FromJson(json);
+  Map<String,dynamic> toJson() => _$S2ToJson(this);
 }
 
 @JsonSerializable()
